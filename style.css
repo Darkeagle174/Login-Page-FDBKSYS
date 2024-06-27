@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900');
+
 
 body{
 	font-family: 'Poppins', sans-serif;
@@ -8,7 +8,6 @@ body{
 	color: #c4c3ca;
 	background-color: #1f2029;
 	overflow-x: hidden;
-    align-items: center;
 }
 a {
 	cursor: pointer;
@@ -35,7 +34,6 @@ h6 span{
   padding: 0 20px;
   text-transform: uppercase;
   font-weight: 700;
-  justify-content: center;
 }
 .section{
   position: relative;
